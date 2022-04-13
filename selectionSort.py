@@ -15,3 +15,4 @@ def selectionSort(arr):
         newArr.append(arr.pop(smallest))
     return newArr
 
+
